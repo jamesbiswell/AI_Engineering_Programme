@@ -19,4 +19,4 @@
 11. Machine Learning Fundamentals (MLF02)
 12. Machine Learning Project (MLP01)
 13. AI and Data Ethics (AIDE01)
-14. AWS Cloud Practitioner (ACP01)# AI_Engineering_Programme
+14. AWS Cloud Practitioner (ACP01)
