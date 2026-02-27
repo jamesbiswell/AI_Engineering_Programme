@@ -6,7 +6,7 @@
 
 ### Course Structure:
 
-1. AI Engineering Fundamentals (AIE01) - https://www.itonlinelearning-academy.com/certificates/b7fxy5driw (completion certificate)
+1. AI Engineering Fundamentals (AIE01) - https://www.itonlinelearning-academy.com/certificates/b7fxy5driw
 2. Data Analysis Fundamentals (DAF02)
 3. Notebooks and IDEs (NAI01)
 4. Python Fundamentals (PAI02)
