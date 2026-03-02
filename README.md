@@ -7,7 +7,7 @@
 ### Course Structure:
 
 1. AI Engineering Fundamentals (AIE01) - https://www.itonlinelearning-academy.com/certificates/b7fxy5driw
-2. Data Analysis Fundamentals (DAF02)
+2. Data Analysis Fundamentals (DAF02) - https://www.itonlinelearning-academy.com/certificates/7jzcsb13j0
 3. Notebooks and IDEs (NAI01)
 4. Python Fundamentals (PAI02)
 5. Python Streamlit Project (PSP01)
