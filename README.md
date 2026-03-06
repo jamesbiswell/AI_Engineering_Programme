@@ -8,7 +8,7 @@
 
 1. AI Engineering Fundamentals (AIE01) - https://www.itonlinelearning-academy.com/certificates/b7fxy5driw
 2. Data Analysis Fundamentals (DAF02) - https://www.itonlinelearning-academy.com/certificates/7jzcsb13j0
-3. Notebooks and IDEs (NAI01)
+3. Notebooks and IDEs (NAI01) - https://www.itonlinelearning-academy.com/certificates/wiionih8g6
 4. Python Fundamentals (PAI02)
 5. Python Streamlit Project (PSP01)
 6. Python for Data (PDA03)
