@@ -1,0 +1,7 @@
+Same
+Different
+Dog
+Cat
+Chien
+Chat
+Seventh Line
