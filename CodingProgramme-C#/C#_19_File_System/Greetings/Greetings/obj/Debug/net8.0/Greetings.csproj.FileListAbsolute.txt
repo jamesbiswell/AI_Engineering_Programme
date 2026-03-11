@@ -1,0 +1,168 @@
+C:\Users\User\source\repos\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\source\repos\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\source\repos\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\source\repos\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\source\repos\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\source\repos\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\8. Classes\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\9. Operators and Data Types\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\10. Arrays and Collections\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\11. Statements\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\12. Casting and Enums\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\13. Methods continued\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\14. Comments & Cleanup\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\15. Architecture\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C#\Lesson Plans\16. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\18. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITonlinelearning Ltd\Documents\IT Online Learning\Courses\C# Beginner\Lesson Plans\19. Exception Handling\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll
