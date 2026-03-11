@@ -12,7 +12,7 @@
 2. Data Analysis Fundamentals (DAF02) - https://www.itonlinelearning-academy.com/certificates/7jzcsb13j0
 3. Notebooks and IDEs (NAI01) - https://www.itonlinelearning-academy.com/certificates/wiionih8g6
 4. Python Fundamentals (PAI02) - https://www.itonlinelearning-academy.com/certificates/
-5. Python Streamlit Project (PSP01)
+5. Python Streamlit Project (PSP01) - https://www.itonlinelearning-academy.com/certificates/jhkg8qtzvb
 6. Python for Data (PDA03)
 7. Sentiment Analysis Project (SAP01)
 8. AI Prompt Engineering (APE01)
