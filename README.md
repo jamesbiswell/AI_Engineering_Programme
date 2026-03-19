@@ -4,6 +4,8 @@
 
 - Course link: https://www.itonlinelearning-academy.com/pages/ai-engineer-programme-learning-path
 
+- A comprehensive set of reference sheets for Data Science and AI Engineering has also been added: https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/DataScienceCheatSheets
+
 ---
 
 ### Learning Path Required Courses:
