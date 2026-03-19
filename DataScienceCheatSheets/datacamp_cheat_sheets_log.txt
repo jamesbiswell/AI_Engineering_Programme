@@ -1,0 +1,249 @@
+C:\Users\james\Desktop\ITOL\AI_Engineering_Programme\.venv\Scripts\python.exe C:\Users\james\Desktop\ITOL\AI_Engineering_Programme\DataScienceCheatSheets\datacamp_cheat_sheets.py
+Collecting article links from pages 1 to 7...
+Opening listing page 1: https://www.datacamp.com/cheat-sheet
+  Found 12 candidate article links
+Opening listing page 2: https://www.datacamp.com/cheat-sheet/page/2
+  Found 12 candidate article links
+Opening listing page 3: https://www.datacamp.com/cheat-sheet/page/3
+  Found 12 candidate article links
+Opening listing page 4: https://www.datacamp.com/cheat-sheet/page/4
+  Found 12 candidate article links
+Opening listing page 5: https://www.datacamp.com/cheat-sheet/page/5
+  Found 12 candidate article links
+Opening listing page 6: https://www.datacamp.com/cheat-sheet/page/6
+  Found 12 candidate article links
+Opening listing page 7: https://www.datacamp.com/cheat-sheet/page/7
+  Found 3 candidate article links
+\nTotal unique article pages found: 75\n
+[1/75] Opening article: https://www.datacamp.com/cheat-sheet/ai-agents-cheat-sheet
+  PDF link: https://media.datacamp.com/cms/ai-agents-cheat-sheet.pdf
+  Saved: datacamp_cheat_sheets\AI Agents Cheat Sheet.pdf
+[2/75] Opening article: https://www.datacamp.com/cheat-sheet/aws-azure-and-gcp-service-comparison-for-data-science-and-ai
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1709212438/Marketing/Blog/Infographic_AWS_Azure_GCP_Service_Comparison_for_Data_Science_AI.pdf
+  Saved: datacamp_cheat_sheets\AWS, Azure and GCP Service Comparison for Data Science and AI.pdf
+[3/75] Opening article: https://www.datacamp.com/cheat-sheet/azure-cli-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1719844709/Marketing/Blog/Azure_CLI_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Azure CLI Cheat sheet.pdf
+[4/75] Opening article: https://www.datacamp.com/cheat-sheet/bash-and-zsh-shell-terminal-basics-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1700047731/Marketing/Blog/Bash_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Bash and zsh Shell Terminal Basics Cheat Sheet.pdf
+[5/75] Opening article: https://www.datacamp.com/cheat-sheet/business-use-cases-of-chatgpt
+  PDF link: https://images.datacamp.com/image/upload/v1686068193/Marketing/Blog/ChatGPT_Business_Cheat_Sheet-compressed.pdf
+  Saved: datacamp_cheat_sheets\Business Use Cases of ChatGPT.pdf
+[6/75] Opening article: https://www.datacamp.com/cheat-sheet/chatgpt-cheat-sheet-data-science
+  PDF link: https://images.datacamp.com/image/upload/v1678453027/Marketing/Blog/ChatGPT_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\ChatGPT Cheat Sheet for Data Science.pdf
+[7/75] Opening article: https://www.datacamp.com/cheat-sheet/conda-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1681474450/Marketing/Blog/Conda_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Conda Cheat Sheet.pdf
+[8/75] Opening article: https://www.datacamp.com/cheat-sheet/data-governance-fundamentals-cheatsheet
+  PDF link: https://images.datacamp.com/image/upload/v1674823832/Marketing/Blog/Data_Governance_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Data Governance Fundamentals Cheat Sheet.pdf
+[9/75] Opening article: https://www.datacamp.com/cheat-sheet/data-manipulation-in-excel-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1683880170/Marketing/Blog/Data_Manipulation_in_Excel_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Data Manipulation in Excel Cheat Sheet.pdf
+[10/75] Opening article: https://www.datacamp.com/cheat-sheet/data-manipulation-with-dplyr-in-r-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1660300796/Marketing/Blog/Manipulating_Data_in_dplyr_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Data Manipulation with dplyr in R Cheat Sheet.pdf
+[11/75] Opening article: https://www.datacamp.com/cheat-sheet/data-quality-dimensions-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1678808802/Data_Quality_Dimensions_yebbuu.pdf
+  Saved: datacamp_cheat_sheets\Data Quality Dimensions Cheat Sheet.pdf
+[12/75] Opening article: https://www.datacamp.com/cheat-sheet/data-science-cheat-sheet-for-business-leaders
+  PDF link: https://assets.datacamp.com/email/other/Cheat+Sheet_DS+For+Business+Leaders.pdf
+  Saved: datacamp_cheat_sheets\Data Science Cheat Sheet for Business Leaders.pdf
+[13/75] Opening article: https://www.datacamp.com/cheat-sheet/data-storytelling-and-communication-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1662633286/Marketing/Blog/Data_Storytelling_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Data Storytelling and Communication Cheat Sheet.pdf
+[14/75] Opening article: https://www.datacamp.com/cheat-sheet/data-transformation-with-power-query-m-in-power-bi
+  PDF link: https://images.datacamp.com/image/upload/v1688466667/Marketing/Blog/Data_Transformation_with_Power_Query_M_in_Power_BI.pdf
+  Saved: datacamp_cheat_sheets\Data Transformation with Power Query M in Power BI.pdf
+[15/75] Opening article: https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet
+  PDF link: https://s3.amazonaws.com/assets.datacamp.com/email/other/Data+Visualizations+-+DataCamp.pdf
+  Saved: datacamp_cheat_sheets\Data Visualization Cheat Sheet.pdf
+[16/75] Opening article: https://www.datacamp.com/cheat-sheet/dates-and-time-in-r-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1671098755/Marketing/Blog/Working_with_Dates_and_Time_in_R.pdf
+  Saved: datacamp_cheat_sheets\Dates and Times in R Cheat Sheet.pdf
+[17/75] Opening article: https://www.datacamp.com/cheat-sheet/dax-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1653826988/Marketing/Blog/Formulas_in_DAX_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\DAX Cheat Sheet.pdf
+[18/75] Opening article: https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1695985637/Marketing/Blog/Deep_Learning_with_PyTorch.pdf
+  Saved: datacamp_cheat_sheets\Deep Learning with PyTorch Cheat Sheet.pdf
+[19/75] Opening article: https://www.datacamp.com/cheat-sheet/descriptive-statistics-cheat-sheet
+  PDF link: https://media.datacamp.com/cms/descriptive-statistics---cheat-sheet---25.pdf
+  Saved: datacamp_cheat_sheets\Descriptive Statistics Cheat Sheet.pdf
+[20/75] Opening article: https://www.datacamp.com/cheat-sheet/docker-for-data-science-cheet-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1691588932/Marketing/Blog/Docker_for_Data_Science_Cheat_Sheet_2.pdf
+  Saved: datacamp_cheat_sheets\Docker for Data Science Cheat Sheet.pdf
+[21/75] Opening article: https://www.datacamp.com/cheat-sheet/excel-shortcuts-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1700047731/Marketing/Blog/Excel_Keyboard_Shortcuts_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Excel Shortcuts Cheat Sheet.pdf
+[22/75] Opening article: https://www.datacamp.com/cheat-sheet/getting-started-r
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1697642178/Marketing/Blog/R_Cheat_Sheet_PNG.pdf
+  Saved: datacamp_cheat_sheets\Getting Started with R Cheat Sheet.pdf
+[23/75] Opening article: https://www.datacamp.com/cheat-sheet/getting-started-with-excel-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1674225421/Marketing/Blog/Excel_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Excel Formulas Cheat Sheet.pdf
+[24/75] Opening article: https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet
+  PDF link: https://media.datacamp.com/cms/python-basics-cheat-sheet-v4.pdf
+  Saved: datacamp_cheat_sheets\Python Cheat Sheet for Beginners.pdf
+[25/75] Opening article: https://www.datacamp.com/cheat-sheet/ggplot2-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1666806657/Marketing/Blog/ggplot2_cheat_sheet.pdf
+  Saved: datacamp_cheat_sheets\ggplot2 Cheat Sheet.pdf
+[26/75] Opening article: https://www.datacamp.com/cheat-sheet/git-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1656573882/Marketing/Blog/git_cheat_sheet.pdf
+  Saved: datacamp_cheat_sheets\Complete Git Cheat Sheet.pdf
+[27/75] Opening article: https://www.datacamp.com/cheat-sheet/how-to-pass-microsoft-exam-pl-300-power-bi-data-analyst
+  PDF link: https://images.datacamp.com/image/upload/v1685622042/Marketing/Blog/How_to_Pass_the_PL-300_Power_BI_Certification.pdf
+  Saved: datacamp_cheat_sheets\How to Pass the PL-300 Power BI Certification.pdf
+[28/75] Opening article: https://www.datacamp.com/cheat-sheet/hugging-face-cheat-sheet
+  PDF link: https://media.datacamp.com/cms/working-with-hugging-face.pdf
+  Saved: datacamp_cheat_sheets\Hugging Face Cheat Sheet.pdf
+[29/75] Opening article: https://www.datacamp.com/cheat-sheet/importing-data-in-python-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1676302004/Marketing/Blog/Importing_Data_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Importing Data in Python Cheat Sheet.pdf
+[30/75] Opening article: https://www.datacamp.com/cheat-sheet/introduction-to-probability-rules-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1680264475/Marketing/Blog/Probability_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Introduction to Probability Rules Cheat Sheet.pdf
+[31/75] Opening article: https://www.datacamp.com/cheat-sheet/julia-basics-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1667400319/Marketing/Blog/Julia_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Julia Basics Cheat Sheet.pdf
+[32/75] Opening article: https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1676302533/Marketing/Blog/Jupyterlab_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Jupyter Notebook Cheat Sheet.pdf
+[33/75] Opening article: https://www.datacamp.com/cheat-sheet/keras-cheat-sheet-neural-networks-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1660903348/Keras_Cheat_Sheet_gssmi8.pdf
+  Saved: datacamp_cheat_sheets\Keras Cheat Sheet Neural Networks in Python.pdf
+[34/75] Opening article: https://www.datacamp.com/cheat-sheet/latex-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1715079172/Marketing/Blog/LaTex_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\LaTeX Cheat Sheet.pdf
+[35/75] Opening article: https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet
+  PDF link: https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf
+  Saved: datacamp_cheat_sheets\Machine Learning Cheat Sheet.pdf
+[36/75] Opening article: https://www.datacamp.com/cheat-sheet/markdown-cheat-sheet-23
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1697797990/Marketing/Blog/Markdown_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Markdown Cheat Sheet.pdf
+[37/75] Opening article: https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1712136349/Marketing/Blog/Matplotlib_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Matplotlib Cheat Sheet Plotting in Python.pdf
+[38/75] Opening article: https://www.datacamp.com/cheat-sheet/microsoft-exam-comparison-of-pl-300-power-bi-data-analyst-vs-pl-900-power-platform-fundamentals
+  PDF link: https://images.datacamp.com/image/upload/v1686052642/Marketing/Blog/Microsoft_Exam_Comparison_of_PL-300__Power_BI_Data_Analyst_vs._PL-900__Power_Platform_Fundamentals.pdf
+  Saved: datacamp_cheat_sheets\Microsoft Exam Comparison of PL-300 Power BI Data Analyst vs. PL-900 Power Platform Fundamentals.pdf
+[39/75] Opening article: https://www.datacamp.com/cheat-sheet/my-sql-basics-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1698070184/Marketing/Blog/MySQL_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\MySQL Basics Cheat Sheet.pdf
+[40/75] Opening article: https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\NumPy Cheat Sheet Data Analysis in Python.pdf
+[41/75] Opening article: https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-data-wrangling-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Pandas Cheat Sheet Data Wrangling in Python.pdf
+[42/75] Opening article: https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Pandas Cheat Sheet for Data Science in Python.pdf
+[43/75] Opening article: https://www.datacamp.com/cheat-sheet/plotly-express-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1668605954/Marketing/Blog/Plotly_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Plotly Express Cheat Sheet.pdf
+[44/75] Opening article: https://www.datacamp.com/cheat-sheet/postgre-sql-basics-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1700745477/Marketing/Blog/PostgreSQL_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\PostgreSQL Basics Cheat Sheet.pdf
+[45/75] Opening article: https://www.datacamp.com/cheat-sheet/power-bi-cheat-sheet
+  PDF link: https://s3.amazonaws.com/assets.datacamp.com/email/other/Power+BI_Cheat+Sheet.pdf
+  Saved: datacamp_cheat_sheets\Power BI Cheat Sheet.pdf
+[46/75] Opening article: https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-dataframes-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1676302905/Marketing/Blog/PySpark_SQL_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\PySpark Cheat Sheet Spark DataFrames in Python.pdf
+[47/75] Opening article: https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\PySpark Cheat Sheet Spark in Python.pdf
+[48/75] Opening article: https://www.datacamp.com/cheat-sheet/python-data-visualization-bokeh-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1676302767/Marketing/Blog/Bokeh_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Python Data Visualization Bokeh Cheat Sheet.pdf
+[49/75] Opening article: https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners
+  PDF link: https://media.datacamp.com/cms/python-cheat-sheet.pdf
+  Saved: datacamp_cheat_sheets\Python for Data Science - A Cheat Sheet for Beginners.pdf
+[50/75] Opening article: https://www.datacamp.com/cheat-sheet/python-for-data-science-cheat-sheet-for-beginners
+  PDF link: https://media.datacamp.com/cms/python-cheat-sheet.pdf
+  Saved: datacamp_cheat_sheets\Python For Data Science Cheat Sheet For Beginners.pdf
+[51/75] Opening article: https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1676302629/Marketing/Blog/Seaborn_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Python Seaborn Cheat Sheet.pdf
+[52/75] Opening article: https://www.datacamp.com/cheat-sheet/quarto-cheat-sheet-previously-known-as-r-markdown
+  PDF link: https://images.datacamp.com/image/upload/v1676540721/Marketing/Blog/Quarto_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Quarto Cheat Sheet (Previously Known as RMarkdown).pdf
+[53/75] Opening article: https://www.datacamp.com/cheat-sheet/regular-expresso
+  PDF link: https://media.datacamp.com/cms/regular-expressions-v2.pdf
+  Saved: datacamp_cheat_sheets\Regular Expressions Cheat Sheet.pdf
+[54/75] Opening article: https://www.datacamp.com/cheat-sheet/reshaping-data-with-pandas-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1677237600/Marketing/Blog/Reshaping_data_with_Python.pdf
+  Saved: datacamp_cheat_sheets\Reshaping Data with pandas in Python.pdf
+[55/75] Opening article: https://www.datacamp.com/cheat-sheet/reshaping-data-with-tidyr-in-r
+  PDF link: https://images.datacamp.com/image/upload/v1677237304/Marketing/Blog/Reshaping_data_with_tidyR_in_R.pdf
+  Saved: datacamp_cheat_sheets\Reshaping Data with tidyr in R.pdf
+[56/75] Opening article: https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning
+  PDF link: https://images.datacamp.com/image/upload/v1676302389/Marketing/Blog/Scikit-Learn_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Scikit-Learn Cheat Sheet Python Machine Learning.pdf
+[57/75] Opening article: https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1676303474/Marketing/Blog/SciPy_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\SciPy Cheat Sheet Linear Algebra in Python.pdf
+[58/75] Opening article: https://www.datacamp.com/cheat-sheet/spacy-cheat-sheet-advanced-nlp-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1653828703/Marketing/Blog/spaCy_Cheat_Sheet_final.pdf
+  Saved: datacamp_cheat_sheets\spaCy Cheat Sheet Advanced NLP in Python.pdf
+[59/75] Opening article: https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet
+  PDF link: https://media.datacamp.com/cms/sql-for-data-science.pdf
+  Saved: datacamp_cheat_sheets\SQL Basics Cheat Sheet.pdf
+[60/75] Opening article: https://www.datacamp.com/cheat-sheet/sql-joins-cheat-sheet
+  PDF link: https://media.datacamp.com/cms/joining-data-in-sql-updated-0425.pdf
+  Saved: datacamp_cheat_sheets\SQL Joins Cheat Sheet.pdf
+[61/75] Opening article: https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1713890725/Marketing/Blog/SQL_Window_Functions.pdf
+  Saved: datacamp_cheat_sheets\SQL Window Functions Cheat Sheet.pdf
+[62/75] Opening article: https://www.datacamp.com/cheat-sheet/sql-with-ai-cheat-sheet
+  PDF link: https://media.datacamp.com/cms/introduction-to-sql-with-ai-1.pdf
+  Saved: datacamp_cheat_sheets\SQL with AI Cheat Sheet.pdf
+[63/75] Opening article: https://www.datacamp.com/cheat-sheet/supervised-machine-learning-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1669897463/Marketing/Blog/Supervised_Machine_Learning_Models.pdf
+  Saved: datacamp_cheat_sheets\Supervised Machine Learning Cheat Sheet.pdf
+[64/75] Opening article: https://www.datacamp.com/cheat-sheet/tableau-cheat-sheet
+  PDF link: https://s3.amazonaws.com/assets.datacamp.com/email/other/Tableau+Cheat+Sheet.pdf
+  Saved: datacamp_cheat_sheets\Tableau Cheat Sheet.pdf
+[65/75] Opening article: https://www.datacamp.com/cheat-sheet/text-data-in-python-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1671098753/Marketing/Blog/Working_With_Text_Data_in_Python.pdf
+  Saved: datacamp_cheat_sheets\Text Data In Python Cheat Sheet.pdf
+[66/75] Opening article: https://www.datacamp.com/cheat-sheet/text-data-in-r-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1671098754/Marketing/Blog/Working_With_Text_Data_in_R.pdf
+  Saved: datacamp_cheat_sheets\Text Data In R Cheat Sheet.pdf
+[67/75] Opening article: https://www.datacamp.com/cheat-sheet/the-data-information-knowledge-wisdom-pyramid
+  PDF link: https://images.datacamp.com/image/upload/v1685008789/Marketing/Blog/Data%20Information-Knowledge-Wisdom%20Pyramid.pdf
+  Saved: datacamp_cheat_sheets\The Data-Information-Knowledge-Wisdom Pyramid.pdf
+[68/75] Opening article: https://www.datacamp.com/cheat-sheet/the-datatable-r-package-cheat-sheet
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1653830846/Marketing/Blog/data_table_cheat_sheet.pdf
+  Saved: datacamp_cheat_sheets\R Data Table Cheat Sheet.pdf
+[69/75] Opening article: https://www.datacamp.com/cheat-sheet/the-generative-ai-tools-landscape
+  PDF link: https://media.datacamp.com/legacy/image/upload/v1710422648/Marketing/Blog/Infographic_the_generative_AI_landscape.pdf
+  Saved: datacamp_cheat_sheets\The Generative AI Tools Landscape.pdf
+[70/75] Opening article: https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python
+  PDF link: https://images.datacamp.com/image/upload/v1684765861/Marketing/Blog/Open_AI_Python.pdf
+  Saved: datacamp_cheat_sheets\The OpenAI API in Python.pdf
+[71/75] Opening article: https://www.datacamp.com/cheat-sheet/tidyverse-cheat-sheet-for-beginners
+  PDF link: https://images.datacamp.com/image/upload/v1676302697/Marketing/Blog/Tidyverse_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Tidyverse Cheat Sheet For Beginners.pdf
+[72/75] Opening article: https://www.datacamp.com/cheat-sheet/unsupervised-machine-learning-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1669897283/Marketing/Blog/Unsupervised_Machine_Learning_Models.pdf
+  Saved: datacamp_cheat_sheets\Unsupervised Machine Learning Cheat Sheet.pdf
+[73/75] Opening article: https://www.datacamp.com/cheat-sheet/working-with-dates-and-times-in-python-cheat-sheet
+  PDF link: https://images.datacamp.com/image/upload/v1666944896/Marketing/Blog/Working_with_Dates_and_Times_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\Working with Dates and Times in Python Cheat Sheet.pdf
+[74/75] Opening article: https://www.datacamp.com/cheat-sheet/working-with-tables-in-power-query-m-in-power-bi
+  PDF link: https://images.datacamp.com/image/upload/v1688466667/Marketing/Blog/Working_With_Tables_in_Power_Query_M_in_Power_BI.pdf
+  Saved: datacamp_cheat_sheets\Working with Tables in Power Query M in Power BI.pdf
+[75/75] Opening article: https://www.datacamp.com/cheat-sheet/xts-cheat-sheet-time-series-in-r
+  PDF link: https://images.datacamp.com/image/upload/v1676303253/Marketing/Blog/xts_Cheat_Sheet.pdf
+  Saved: datacamp_cheat_sheets\xts Cheat Sheet Time Series in R.pdf
+\nDone.
+Downloaded: 75
+Skipped:    0
+Failed:     0
+Folder:     C:\Users\james\Desktop\ITOL\AI_Engineering_Programme\DataScienceCheatSheets\datacamp_cheat_sheets
+
+Process finished with exit code 0
