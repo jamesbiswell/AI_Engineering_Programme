@@ -1,0 +1,3 @@
+https://plotly.com/python/getting-started
+https://plotly.com/python
+https://docs.plotly.com

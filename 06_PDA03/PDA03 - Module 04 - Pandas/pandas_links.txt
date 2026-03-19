@@ -1,0 +1,4 @@
+https://pandas.pydata.org/
+https://pandas.pydata.org/docs/getting_started
+https://pandas.pydata.org/docs/user_guide
+https://pandas.pydata.org/docs/reference
