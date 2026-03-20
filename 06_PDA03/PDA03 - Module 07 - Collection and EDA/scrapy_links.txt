@@ -1,0 +1,3 @@
+https://docs.scrapy.org/en/latest/intro/overview
+https://docs.scrapy.org/en/latest/intro/tutorial
+https://docs.scrapy.org/en/latest
