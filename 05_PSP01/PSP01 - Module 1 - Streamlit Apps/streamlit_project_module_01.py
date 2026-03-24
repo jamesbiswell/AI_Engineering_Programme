@@ -1,3 +1,6 @@
+# cd '.\05_PSP01\PSP01 - Module 1 - Streamlit Apps\'
+# streamlit run streamlit_project_module_01.py
+
 import streamlit as st
 import pandas as pd
 import numpy as np

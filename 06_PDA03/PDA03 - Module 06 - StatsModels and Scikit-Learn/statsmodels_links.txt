@@ -1,0 +1,3 @@
+https://www.statsmodels.org/stable/gettingstarted
+https://www.statsmodels.org/stable/user-guide
+https://www.statsmodels.org/stable/api
