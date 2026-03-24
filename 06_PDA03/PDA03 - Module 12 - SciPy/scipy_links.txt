@@ -1,0 +1,3 @@
+https://scipy.org/install
+https://docs.scipy.org/doc/scipy/tutorial/index.html
+https://docs.scipy.org/doc/scipy/reference/index.html
