@@ -1,6 +1,6 @@
 ## ITOL Course - AI Engineering Programme
 
-- This repository contains lecture notes and working solutions (as required) for each section of this ITOL course.
+- This repository contains lecture notes and working solutions (as required) for each course of this ITOL programme:
 
 - Course link: https://www.itonlinelearning-academy.com/pages/ai-engineer-programme-learning-path
 
@@ -16,7 +16,7 @@
 4. Python Fundamentals (PAI02) - https://www.itonlinelearning-academy.com/certificates/a1b2c3d4e5
 5. Python Streamlit Project (PSP01) - https://www.itonlinelearning-academy.com/certificates/jhkg8qtzvb
 6. Python for Data (PDA03) - https://www.itonlinelearning-academy.com/certificates/i2ehqrikva
-7. Sentiment Analysis Project (SAP01)
+7. Sentiment Analysis Project (SAP01) - 
 8. AI Prompt Engineering (APE01)
 9. Retrieval Augmented Generation (RAG01)
 10. RAG Project (RAGP01)
