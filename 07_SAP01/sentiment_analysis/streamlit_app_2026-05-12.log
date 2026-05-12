@@ -1,0 +1,30 @@
+2026-05-12 16:24:34,292 - INFO - Attempting to load sentiment analysis model...
+2026-05-12 16:24:34,795 - INFO - HTTP Request: HEAD https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-05-12 16:24:34,796 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-05-12 16:24:35,029 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert-base-uncased-finetuned-sst-2-english/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-05-12 16:24:35,174 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert/distilbert-base-uncased-finetuned-sst-2-english/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-12 16:24:35,309 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert-base-uncased-finetuned-sst-2-english/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-05-12 16:24:35,451 - INFO - HTTP Request: GET https://huggingface.co/api/models/distilbert/distilbert-base-uncased-finetuned-sst-2-english/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-12 16:24:49,400 - INFO - Request count: 1/10
+2026-05-12 16:25:16,554 - INFO - Request count: 2/10
+2026-05-12 16:25:35,598 - INFO - Rate limit window reset.
+2026-05-12 16:25:35,644 - INFO - Request count: 1/10
+2026-05-12 16:25:55,749 - INFO - Request count: 2/10
+2026-05-12 16:25:58,455 - INFO - Request count: 3/10
+2026-05-12 16:26:00,230 - INFO - Request count: 4/10
+2026-05-12 16:26:01,268 - INFO - Request count: 5/10
+2026-05-12 16:26:02,203 - INFO - Request count: 6/10
+2026-05-12 16:26:02,999 - INFO - Request count: 7/10
+2026-05-12 16:26:03,870 - INFO - Request count: 8/10
+2026-05-12 16:26:04,710 - INFO - Request count: 9/10
+2026-05-12 16:26:05,574 - INFO - Request count: 10/10
+2026-05-12 16:26:38,156 - INFO - Rate limit window reset.
+2026-05-12 16:26:38,211 - INFO - Request count: 1/10
+2026-05-12 16:26:42,510 - INFO - Request count: 2/10
+2026-05-12 16:26:43,170 - INFO - Request count: 3/10
+2026-05-12 16:26:43,868 - INFO - Request count: 4/10
+2026-05-12 16:26:44,617 - INFO - Request count: 5/10
+2026-05-12 16:26:45,244 - INFO - Request count: 6/10
+2026-05-12 16:26:45,809 - INFO - Request count: 7/10
+2026-05-12 16:26:46,361 - INFO - Request count: 8/10
+2026-05-12 16:26:46,973 - INFO - Request count: 9/10
