@@ -8,6 +8,8 @@ print("Loading model...")
 classifier = pipeline("sentiment-analysis",
                      model="distilbert-base-uncased-finetuned-sst-2-english")
 
+print ("Model loaded successfully!\n")
+
 # Load IMDB dataset (we'll use a small subset for speed)
 print("Loading dataset...")
 dataset = load_dataset("imdb", split="test[:500]")  # First 500 test examples
@@ -45,3 +47,22 @@ for i in range(5):
     print(f"\nReview: {texts[i][:200]}...")
     print(f"True: {'Positive' if true_labels[i] == 1 else 'Negative'}")
     print(f"Predicted: {predictions[i]['label']} (confidence: {predictions[i]['score']:.3f})")
+
+# Interactive testing
+def analyze_custom_text():
+    print("\n" + "=" * 50)
+    print("Custom Sentiment Analysis")
+    print("=" * 50)
+    print("Enter movie reviews to analyze (or 'quit' to exit)\n")
+
+    while True:
+        user_input = input("Enter review: ").strip()
+        if user_input.lower() == 'quit':
+            break
+
+        if user_input:
+            result = classifier(user_input)[0]
+            print(f"Sentiment: {result['label']}")
+            print(f"Confidence: {result['score']:.2%}\n")
+
+analyze_custom_text()
