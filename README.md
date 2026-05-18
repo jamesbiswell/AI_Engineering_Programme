@@ -17,8 +17,8 @@
 5. Python Streamlit Project (PSP01) - https://www.itonlinelearning-academy.com/certificates/jhkg8qtzvb
 6. Python for Data (PDA03) - https://www.itonlinelearning-academy.com/certificates/i2ehqrikva
 7. Sentiment Analysis Project (SAP01) - https://www.itonlinelearning-academy.com/certificates/esnb6cfomk
-8. AI Prompt Engineering (APE01) - 
-9. Retrieval Augmented Generation (RAG01)
+8. AI Prompt Engineering (APE01) - https://www.itonlinelearning-academy.com/certificates/hipwuywp5l
+9. Retrieval Augmented Generation (RAG01) - 
 10. RAG Project (RAGP01)
 11. Machine Learning Fundamentals (MLF02)
 12. Machine Learning Project (MLP01)
