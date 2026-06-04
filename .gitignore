@@ -24,3 +24,7 @@ build/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Chroma database
+chroma_db/
+rag_db/
