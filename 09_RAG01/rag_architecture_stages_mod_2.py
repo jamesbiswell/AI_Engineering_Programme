@@ -1,6 +1,7 @@
 from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv(), override=True)
 
+
 ###
 ### INDEXING STAGE STEP 1: DOCUMENT LOADING
 
