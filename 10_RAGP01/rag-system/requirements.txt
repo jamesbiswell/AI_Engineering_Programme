@@ -1,0 +1,8 @@
+langchain
+langchain-chroma
+langchain-community
+langchain-openai
+openai
+chromadb
+pypdf
+unstructured
