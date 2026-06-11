@@ -83,7 +83,7 @@ class RAGSystem:
     def generate(self, query, retrieved_chunks):
         """
         STAGE 3: GENERATE
-        Create response using LLM with retrieved context
+        Create the response using LLM with retrieved context
         """
         # Build context from chunks
         context = "\n\n".join([
@@ -96,12 +96,12 @@ class RAGSystem:
 If the answer is not in the context, say so clearly.
 Cite sources when possible.
 
-Context:
-{context}
+Context: {context}
 
 Question: {query}
 
-Answer:"""
+Answer: 
+"""
 
         # Generate response
         response = self.client.chat.completions.create(

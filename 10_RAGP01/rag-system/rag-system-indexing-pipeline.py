@@ -1,16 +1,17 @@
-# STEP 0: Import libraries ###
+### STEP 0: Import libraries ###
+from dotenv import load_dotenv, find_dotenv
 import os
 import shutil
 import sys
-from langchain_community.document_loaders import TextLoader, PyPDFLoader, UnstructuredMarkdownLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_openai import OpenAIEmbeddings
 from langchain_chroma import Chroma
-from dotenv import load_dotenv, find_dotenv
+from langchain_community.document_loaders import TextLoader, PyPDFLoader, UnstructuredMarkdownLoader
+from langchain_openai import OpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-# ========================================
-# MAIN PIPELINE (only runs if checks pass)
-# ========================================
+
+# =============
+# MAIN PIPELINE
+# =============
 
 def run_rag_pipeline(file_path):
 
@@ -82,7 +83,7 @@ if __name__ == "__main__":
 
     # # Check if filepath is provided as a command-line argument
     # if len(sys.argv) < 2:
-    #     print("Usage: python rag-system.py <filepath>")
+    #     print("Usage: python rag-system-indexing-pipeline.py <filepath>")
     #     sys.exit(1)
     #
     # # Get the filepath from command-line arguments
