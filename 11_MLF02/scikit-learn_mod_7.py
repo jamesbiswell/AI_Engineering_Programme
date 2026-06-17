@@ -59,7 +59,7 @@ print(*y_test[:10], sep='\n')
 print(f'\nUSING SCALAR PREDICTED TARGET MEAN:\n\n{regre_predict.mean()}')
 print(f'\nACTUAL TARGET MEAN:\n\n{y_test.mean()}')
 
-# # Vectorise example data
+# # Vectorise data example
 from sklearn.feature_extraction.text import CountVectorizer
 cv = CountVectorizer()
 sentences = ["I love apples", "I love oranges", "I love fruits"]
