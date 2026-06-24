@@ -21,7 +21,7 @@
 9. Retrieval Augmented Generation (RAG01) - https://www.itonlinelearning-academy.com/certificates/a0a9ht9vbw
 10. RAG Project (RAGP01) - https://www.itonlinelearning-academy.com/certificates/gitiepaqog
 11. Machine Learning Fundamentals (MLF02) - https://www.itonlinelearning-academy.com/certificates/udh2nxvcxb
-12. Machine Learning Project (MLP01) - 
+12. Machine Learning Project (MLP01) - https://www.itonlinelearning-academy.com/certificates/cfjogofgf6
 13. AI and Data Ethics (AIDE01)
 14. AWS Cloud Practitioner (ACP01)
 
