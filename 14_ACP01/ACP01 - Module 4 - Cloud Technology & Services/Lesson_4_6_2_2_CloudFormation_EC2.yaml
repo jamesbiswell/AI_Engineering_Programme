@@ -3,7 +3,7 @@ Description: 'CloudFormation template reconstructed from CloudTrail RunInstances
 
 Resources:
   DemoWalkthroughEC2Instance:
-    Type: 'AWS::EC2::Instance'
+    Type: AWS::EC2::Instance
     Properties:
       # Core Configuration
       ImageId: 'ami-01c952cfc86b7870d'
