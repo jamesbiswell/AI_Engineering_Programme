@@ -23,7 +23,7 @@
 11. Machine Learning Fundamentals (MLF02) - https://www.itonlinelearning-academy.com/certificates/udh2nxvcxb
 12. Machine Learning Project (MLP01) - https://www.itonlinelearning-academy.com/certificates/cfjogofgf6
 13. AI and Data Ethics (AIDE01) - https://www.itonlinelearning-academy.com/certificates/awqb7tb1ba
-14. AWS Cloud Practitioner (ACP01) - 
+14. AWS Cloud Practitioner (ACP01) - https://www.itonlinelearning-academy.com/certificates/ahdriiufql
 
 ---
 
