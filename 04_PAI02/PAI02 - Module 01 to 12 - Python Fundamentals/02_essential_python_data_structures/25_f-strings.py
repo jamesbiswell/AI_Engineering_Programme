@@ -29,7 +29,7 @@ learning_rate, epochs = 0.01, 10
 
 # The `=` syntax displays both the variable name and its value
 print(f'Learning rate: {learning_rate=}, Epochs: {epochs=}')
-# Output: Learning rate: learning_rate=0.01, Epochs=10
+# Output: Learning rate: learning_rate=0.01, Epochs: epochs=10
 
 # CALCULATING AND FORMATTING PRECISION
 
