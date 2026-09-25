@@ -5,7 +5,7 @@
 4. Indexing structure
 5. Loading documents
 6. Chunking documents
-7. Initialsing embeddings
+7. Initialising embeddings
 8. Creating the vector store
 9. Running and testing the pipeline
 10. Similarity search testing
