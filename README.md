@@ -6,6 +6,8 @@
 
 - A comprehensive set of reference sheets for Data Science and AI Engineering has also been added: https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/DataScienceCheatSheets
 
+- AWS Cloud Practitioner Certification - https://www.credly.com/badges/3c32b431-ffaf-4840-ba5b-9edcb874074c
+
 ---
 
 ### Learning Path Required Courses:
@@ -17,13 +19,13 @@
 5. Python Streamlit Project (PSP01) - https://www.itonlinelearning-academy.com/certificates/jhkg8qtzvb
 6. Python for Data (PDA03) - https://www.itonlinelearning-academy.com/certificates/i2ehqrikva
 7. Sentiment Analysis Project (SAP01) - https://www.itonlinelearning-academy.com/certificates/esnb6cfomk
-8. AI Prompt Engineering (APE01) - https://www.itonlinelearning-academy.com/certificates/hipwuywp5l
-9. Retrieval Augmented Generation (RAG01) - https://www.itonlinelearning-academy.com/certificates/a0a9ht9vbw
-10. RAG Project (RAGP01) - https://www.itonlinelearning-academy.com/certificates/gitiepaqog
-11. Machine Learning Fundamentals (MLF02) - https://www.itonlinelearning-academy.com/certificates/udh2nxvcxb
-12. Machine Learning Project (MLP01) - https://www.itonlinelearning-academy.com/certificates/cfjogofgf6
-13. AI and Data Ethics (AIDE01) - https://www.itonlinelearning-academy.com/certificates/awqb7tb1ba
-14. AWS Cloud Practitioner (ACP01) - https://www.itonlinelearning-academy.com/certificates/ahdriiufql
+8. AI Prompt Engineering (APE01) – https://www.itonlinelearning-academy.com/certificates/hipwuywp5l
+9. Retrieval Augmented Generation (RAG01) – https://www.itonlinelearning-academy.com/certificates/a0a9ht9vbw
+10. RAG Project (RAGP01) – https://www.itonlinelearning-academy.com/certificates/gitiepaqog
+11. Machine Learning Fundamentals (MLF02) – https://www.itonlinelearning-academy.com/certificates/udh2nxvcxb
+12. Machine Learning Project (MLP01) – https://www.itonlinelearning-academy.com/certificates/cfjogofgf6
+13. AI and Data Ethics (AIDE01) – https://www.itonlinelearning-academy.com/certificates/awqb7tb1ba
+14. AWS Cloud Practitioner (ACP01) – https://www.itonlinelearning-academy.com/certificates/ahdriiufql
 
 ---
 
