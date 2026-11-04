@@ -1,10 +1,12 @@
-## ITOL Course - AI Engineering Programme
+## ITOnlineLearning - AI Engineering Programme
 
-- This repository contains lecture notes and working solutions (as required) for each course of this ITOL programme:
+- This repository contains lecture notes and working solutions (as required) for each course of this ITOL programme
 
-- Course link: https://www.itonlinelearning-academy.com/pages/ai-engineer-programme-learning-path
+- Programme link - https://www.itonlinelearning-academy.com/pages/ai-engineer-programme-learning-path
 
-- A comprehensive set of reference sheets for Data Science and AI Engineering has also been added: https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/DataScienceCheatSheets
+- Comprehensive sets of reference sheets for Data Science and AI Engineering have also been added
+  - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/DataScienceCheatSheets
+  - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Databricks
 
 - AWS Cloud Practitioner Certification - https://www.credly.com/badges/3c32b431-ffaf-4840-ba5b-9edcb874074c
 
