@@ -37,23 +37,31 @@
 
 ---
 
+### Independent Study Course:
+
+15. AWS AI Practitioner (AAIP01)
+
+---
+
 ### Supplementary Optional Courses:
 
-15. Big Data (BD01)
-16. Communication for Career Professionals (CCP01)
-17. Critical Thinking Skills (CTS01)
-18. CSS Essentials (CSS01)
-19. Database Essentials (DBE01)
-20. Django Essentials (DJE01)
-21. Docker (DO01)
-22. HTML and Web Essentials (HAW01)
-23. JavaScript Essentials (JAV01)
-24. Learn GitHub (GIT01)
-25. Learn the Command Line (LCO01)
-26. Linear Regression Fundamentals (LRF01)
-27. PHP Essentials (PHP01)
-28. Probability in Data (PID01)
-29. React Essentials (REA01)
-30. Software Testing Foundation (STF02)
-31. SQL Essentials (SQL01)
-32. Tailwind CSS (TCS01)
+16. Big Data (BD01)
+17. Communication for Career Professionals (CCP01)
+18. Critical Thinking Skills (CTS01)
+19. CSS Essentials (CSS01)
+20. Database Essentials (DBE01)
+21. Django Essentials (DJE01)
+22. Docker (DO01)
+23. HTML and Web Essentials (HAW01)
+24. JavaScript Essentials (JAV01)
+25. Learn GitHub (GIT01)
+26. Learn the Command Line (LCO01)
+27. Linear Regression Fundamentals (LRF01)
+28. PHP Essentials (PHP01)
+29. Probability in Data (PID01)
+30. React Essentials (REA01)
+31. Software Testing Foundation (STF02)
+32. SQL Essentials (SQL01)
+33. Tailwind CSS (TCS01)
+
+---
