@@ -8,7 +8,9 @@
   - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/DataScienceCheatSheets
   - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Databricks
 
-- AWS Cloud Practitioner Certification - https://www.credly.com/badges/3c32b431-ffaf-4840-ba5b-9edcb874074c/public_url
+- Course completion certificates - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Certificates
+
+- AWS Cloud Practitioner certification - https://www.credly.com/badges/3c32b431-ffaf-4840-ba5b-9edcb874074c/public_url
 
 <p align="left">
   <a href="https://credly.com/badges/3c32b431-ffaf-4840-ba5b-9edcb874074c/public_url">
@@ -23,7 +25,7 @@
 1. AI Engineering Fundamentals (AIE01) - https://www.itonlinelearning-academy.com/certificates/b7fxy5driw
 2. Data Analysis Fundamentals (DAF02) - https://www.itonlinelearning-academy.com/certificates/7jzcsb13j0
 3. Notebooks and IDEs (NAI01) - https://www.itonlinelearning-academy.com/certificates/wiionih8g6
-4. Python Fundamentals (PAI02) - https://www.itonlinelearning-academy.com/certificates/a1b2c3d4e5
+4. Python Fundamentals (PAI02) - https://www.itonlinelearning-academy.com/certificates/199946746
 5. Python Streamlit Project (PSP01) - https://www.itonlinelearning-academy.com/certificates/jhkg8qtzvb
 6. Python for Data (PDA03) - https://www.itonlinelearning-academy.com/certificates/i2ehqrikva
 7. Sentiment Analysis Project (SAP01) - https://www.itonlinelearning-academy.com/certificates/esnb6cfomk
