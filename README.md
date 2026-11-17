@@ -4,14 +4,14 @@
 
 - Programme link - https://www.itonlinelearning-academy.com/pages/ai-engineer-programme-learning-path
 
-- Course completion certificates - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Certificates
+- Course certificates - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Certificates
 
 - Comprehensive sets of reference sheets for Data Science and AI Engineering have also been added
   - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/DataScienceCheatSheets
   - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Databricks
 
 - Also, study materials for the following certifications:
-  - AWS Cloud Practitioner (ACP01) - https://www.credly.com/badges/3c32b431-ffaf-4840-ba5b-9edcb874074c/public_url
+  - AWS Cloud Practitioner (ACP01)
   - AWS AI Practitioner (AAIP01)
   - Claude Certified Developer (CCD01)
 
