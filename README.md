@@ -6,11 +6,11 @@
 
 - Course certificates - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Certificates
 
-- Comprehensive sets of reference sheets for Data Science and AI Engineering have also been added
+- Comprehensive sets of reference sheets for Data Science and AI Engineering have also been added:
   - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/DataScienceCheatSheets
   - https://github.com/jamesbiswell/AI_Engineering_Programme/tree/main/Databricks
 
-- Also, study materials for the following certifications:
+- Also, learning materials for the following certifications:
   - AWS Cloud Practitioner (ACP01)
   - AWS AI Practitioner (AAIP01)
   - Claude Certified Developer (CCD01)
@@ -42,7 +42,7 @@
 
 ---
 
-### Independent Study Certifications:
+### Independent Learning Certifications:
 
 15. AWS AI Practitioner (AAIP01)
 16. Claude Certified Developer (CCD01)
